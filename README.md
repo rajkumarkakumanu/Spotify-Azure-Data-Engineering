@@ -1,5 +1,7 @@
 # Spotify-Azure-Data-Engineering
-<img width="1920" height="1200" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/d344e357-dd69-4ef5-84d0-ab4fb9686d1f" />
+
+<img width="1920" height="1200" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/fb6d9354-95f3-416d-b78d-ade7b5129346" />
+
 
 🎧 Spotify Azure Data Engineering Project
 
